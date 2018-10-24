@@ -1,6 +1,5 @@
 # SCORElibdsg
-A collection of the author's tools for interacting with Leland Smith's 
-SCORE music typography system
+A collection of the author's tools for interacting with Leland Smith's SCORE music typography system
 
 ## Authors
 
