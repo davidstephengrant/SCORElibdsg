@@ -5,6 +5,8 @@
 #  Based on Simarilius' extension 'ExportXY' which
 #  does not explicitly state a license.
 #  http://www.inkscapeforum.com/viewtopic.php?t=8826
+#
+#  Works on a single outline with less than 1000 nodes.
 
 import inkex
 import sys

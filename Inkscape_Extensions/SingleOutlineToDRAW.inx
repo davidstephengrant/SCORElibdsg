@@ -9,7 +9,7 @@
 		<object-type>all</object-type>
                 <effects-menu>
                         <submenu _name="Export"/>
-                </effects-menu>				       
+                </effects-menu>
     </effect>
     <script>
         <command reldir="extensions" interpreter="python">SingleOutlineToDRAW.py</command>
